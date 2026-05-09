@@ -1,0 +1,4 @@
+# CLI charts
+matplotlib>=3.7.0
+# Jupyter notebook (load_expense_data.ipynb)
+pandas>=2.0.0

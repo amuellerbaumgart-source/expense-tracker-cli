@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter / OS
+.ipynb_checkpoints/
+.DS_Store
+
+# Expense tracker (local data)
+expense_tracker/expenses.db
+expense_tracker/expenses.csv
