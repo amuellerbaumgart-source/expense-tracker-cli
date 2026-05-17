@@ -83,12 +83,3 @@ Open `expense_tracker/load_expense_data.ipynb` after exporting CSV or point it a
 ```
 
 The database (`expenses.db`) and export (`expenses.csv`) are gitignored so your real spending never lands in Git history.
-
----
-
-## GitHub checklist (portfolio polish)
-
-1. **Repository visibility:** Public, clear name (`expense-tracker-cli` or similar).
-2. **Topics/tags:** Add e.g. `python`, `sqlite`, `pandas`, `matplotlib`, `cli`, `jupyter-notebook`.
-3. **Pinned README section:** Lead with “What I built” in 2 sentences (mirror the opening here if you like).
-4. **Optional:** GitHub Actions (lint/format on PR) shows engineering habits—only add when you want that signal.
