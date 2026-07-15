@@ -4,16 +4,6 @@ Personal finance tooling that persists expenses in **SQLite**, exposes a small *
 
 ---
 
-## Why it’s portfolio-friendly
-
-- **End-to-end data path:** input → relational storage → aggregations → optional CSV/notebook analytics.
-- **Readable structure:** separation between persistence (`database`), analytics (`analysis`), UX (`dashboard`, `charts`), and I/O (`input_expense`, `export_to_csv`).
-- **Shows practical skills:** SQL via `sqlite3`, CLI modules, reproducible installs (`requirements.txt`).
-
-> **Tip:** After your first commits, add 1–2 screenshots (dashboard output, a chart figure) under `docs/` and link them here—recruiters scan visuals quickly.
-
----
-
 ## Tech stack
 
 | Area        | Choice                          |
